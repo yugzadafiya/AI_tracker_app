@@ -1,0 +1,40 @@
+# Built artifacts
+bin/
+gen/
+out/
+build/
+.gradle/
+.gradle-user-home/
+
+# IDE specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+
+# Android specific
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+google-services.json
+
+# Signing files
+*.jks
+*.keystore
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.bak
+*.swp
+*~
+
